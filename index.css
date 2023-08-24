@@ -70,7 +70,6 @@ main.container {
     width: 375px;
     height: 375px;
     object-fit: cover;
-    margin-bottom: 10px;
 }
 
 .post-label {
